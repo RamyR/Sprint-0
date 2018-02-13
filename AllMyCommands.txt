@@ -14,3 +14,4 @@ git add -A
 git commit -m "Commiting ReadMe File"
 git checkout master
 git merge ReadMe
+git push origin master
